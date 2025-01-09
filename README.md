@@ -6,6 +6,9 @@ The list is limited to 3-legged and 4-legged intersections. In each case, the ce
 
 ![Intersection naming convention](Images/intersection_naming.png)
 
+# Acknowledgements
+If you found this repository useful, please cite one of our relevant papers (e.g., 10.1109/TITS.2023.3303680) and add short acknowledgement to your paper, e.g.: "We acknolwedge the SUMO network created by BME Traffic Lab, www.traffic.bme.hu"
+
 # Examples
 
 ![One_Lane_Signalized_v2](Images/One_Lane_Signalized_v2.png)
