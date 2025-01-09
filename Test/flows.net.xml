@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
+<flow id="f_1" begin="0.00" from="A_in" to="B_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_2" begin="0.00" from="A_in" to="C_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_3" begin="0.00" from="A_in" to="D_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_4" begin="0.00" from="B_in" to="A_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_6" begin="0.00" from="B_in" to="C_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_7" begin="0.00" from="B_in" to="D_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_8" begin="0.00" from="C_in" to="A_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_9" begin="0.00" from="C_in" to="B_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_11" begin="0.00" from="C_in" to="D_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_12" begin="0.00" from="D_in" to="A_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_13" begin="0.00" from="D_in" to="B_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+<flow id="f_14" begin="0.00" from="D_in" to="C_out" end="3600.00" vehsPerHour="100" type="DEFAULT_VEHTYPE"/>
+</routes>

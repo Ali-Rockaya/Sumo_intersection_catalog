@@ -1,0 +1,4 @@
+<additional>
+  <edgeData id="1" type="emissions" file="emissions_out_aggregated.xml" aggregate="true"/>
+  <edgeData id="2" file="edge_data_out_aggregated.xml" aggregate="true"/>
+</additional>
